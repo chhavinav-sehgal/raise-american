@@ -1,0 +1,40 @@
+{% assign shipping_to = settings.free_shipping_over | append : '00' | minus: cart.total_price %}
+<div id="mini-cart">
+  <h4 class="free-shipping">
+    {% if shipping_to > 0 %}
+    	{{ shipping_to | money }} TO FREE SHIPPING
+    {% else %}
+    	YOU ARE ELIGIBLE FOR FREE SHIPPING
+    {% endif %}
+  </h4>
+  {% if cart.item_count > 0 %}
+    <table>
+      {%- for item in cart.items -%}
+      <tr>
+        <td class="td-image" width="40%">
+          <a href="{{ item.url }}">
+          	<img src="{{ item | img_url: 'x190' }}" alt="{{ item.image.alt | escape }}" />
+          </a>
+        </td>
+        <td>
+          <a href="{{ item.url }}">
+            <h3>{{ item.product.title }}</h3>
+            <div>item: {{ item.quantity }} x <span class="item-price">{{ item.final_line_price | money }}</span></div>
+          </a>
+        </td>
+      </tr>	
+    {% endfor %}
+    </table>
+  {% else %}
+  	<div class="empty-cart">YOUR CART IS EMPTY</div>
+  {% endif %}
+  
+  <div class="subtotal">
+    <strong>Total </strong>
+    <strong class="amount price">{{ cart.total_price | money_with_currency }}</strong>
+  </div>
+  
+  <div class="buttons">
+    <a class="btn" href="/cart">REVIEW CART</a>
+  </div>
+</div>

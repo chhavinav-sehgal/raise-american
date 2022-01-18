@@ -1,0 +1,1864 @@
+{
+  "current": {
+    "color_text": "#1c3b6c",
+    "color_body_text": "#1c3b6c",
+    "color_sale_text": "#ea0606",
+    "color_button": "#1c3b6c",
+    "color_button_text": "#ffffff",
+    "color_small_button_text_border": "#3a3a3a",
+    "color_text_field_text": "#1c3b6c",
+    "color_text_field_border": "#cccccc",
+    "color_text_field": "#ffffff",
+    "color_image_overlay_text": "#1c3b6c",
+    "color_image_overlay": "#ffffff",
+    "image_overlay_opacity": 0,
+    "color_borders": "#fafafa",
+    "color_body_bg": "#ffffff",
+    "type_header_font": "quicksand_n7",
+    "type_header_base_size": 36,
+    "type_base_font": "montserrat_n4",
+    "type_base_size": 16,
+    "predictive_search_enabled": true,
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/raiseamerican\/?view_public_for=103930191439825",
+    "social_instagram_link": "https:\/\/www.instagram.com\/raiseamerican\/",
+    "social_youtube_link": "",
+    "enable_ajax": true,
+    "free_shipping_over": 150,
+    "checkout_logo_image": "shopify:\/\/shop_images\/raise-blue.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/raise-blue.png",
+          "logo_max_width": 250,
+          "main_linklist": "main-menu",
+          "message": false,
+          "home_page_only": true,
+          "message_text": "Announce something here",
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff"
+        }
+      },
+      "feature-row": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/cow.png",
+          "layout": "left",
+          "title": "The Raise difference",
+          "icon": "shopify:\/\/shop_images\/cow_aac238a9-af4b-4c5c-92e8-76f80ece067d.png",
+          "text": "<p>With a focus on sustainability, full integration, and delivering superior taste, Raise American completely controls our supply chain from start to finish, working hand in hand with family farms to raise grass-fed, organic cattle and provide you with farm to table selections. Each of our cattle can be traced back to birth, and spend most of their lives grazing in pasture with access to fresh air and minimal confinement. From the land, to the cattle, to the ranchers, our employees and finally to you, we aim for fair treatment at every step of the supply chain. This is how we’re building and cultivating a nationwide community with high-quality, best-in-class American beef.<\/p>",
+          "button_label": ""
+        }
+      },
+      "feature-columns": {
+        "type": "feature-columns",
+        "blocks": {
+          "feature-columns-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": ""
+            }
+          },
+          "feature-columns-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": ""
+            }
+          },
+          "feature-columns-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "title": "Add a title or tagline",
+              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "feature-columns-0",
+          "feature-columns-1",
+          "feature-columns-2"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "left"
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "title": "Featured collection",
+          "collection": "",
+          "grid": 4,
+          "rows": 2,
+          "show_vendor": false,
+          "show_view_all": false
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "blocks": {
+          "quotes-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author's name"
+            }
+          },
+          "quotes-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author's name"
+            }
+          },
+          "quotes-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+              "author": "Author's name"
+            }
+          }
+        },
+        "block_order": [
+          "quotes-0",
+          "quotes-1",
+          "quotes-2"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "image-bar": {
+        "type": "image-bar",
+        "blocks": {
+          "image-bar-1": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "image-bar-2": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          },
+          "7594646f-d151-4e21-ae60-0c9b138cbb22": {
+            "type": "image",
+            "settings": {
+              "alignment": "center",
+              "cta_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "image-bar-1",
+          "image-bar-2",
+          "7594646f-d151-4e21-ae60-0c9b138cbb22"
+        ],
+        "settings": {
+          "section_height": "x-small"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter sign-up"
+            }
+          },
+          "fac63ea0-392a-41a1-be71-d41324db8b29": {
+            "type": "text",
+            "settings": {
+              "title": "Contact us",
+              "text": "<p>Raise American, Gordon, NE 69343<\/p><p><a href=\"tel:833-445-1573\">833-445-1573<\/a><br><a href=\"mailto:info@raiseamerican.com\">info@raiseamerican.com<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "fac63ea0-392a-41a1-be71-d41324db8b29"
+        ],
+        "settings": {
+          "show_payment_icons": false,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#333232",
+          "show_locale_selector": false,
+          "show_currency_selector": false
+        }
+      },
+      "1603412395e5db6ebb": {
+        "type": "slideshow",
+        "blocks": {
+          "0a40b23b-9e19-40d2-83dc-ec2b2ce259c5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shutterstock_120398003.jpg",
+              "right-logo": "shopify:\/\/shop_images\/8.png",
+              "alignment": "center center",
+              "slide_title": "We’re raising the bar in the American meat industry with organic, grass-fed beef",
+              "subheading": "Raise American products are produced and crafted from animals reared on small, independent American farms run by family farmers and ranchers who adhere to some of the strictest animal welfare protocols in the industry, which means we’re setting higher standards than our competitors.",
+              "button_label": "Shop now",
+              "button_link": "shopify:\/\/collections"
+            }
+          },
+          "1603412395e5db6ebb-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2.png",
+              "right-logo": "shopify:\/\/shop_images\/6.png",
+              "alignment": "center bottom",
+              "slide_title": "The Raise difference",
+              "subheading": "With a focus on sustainability, while delivering superior taste, Raise American works hand in hand with family farms to raise grass-fed, organic cattle and provide you with farm to table selections. Our cattle spend most of their lives grazing in pasture with access to fresh air and minimal confinement. From the land, to the cattle, to the ranchers, our employees and finally to you, we aim for fair treatment at every step of the supply chain. Essentially, we are keeping it real while cultivating a nationwide community with high-quality, best-in-class American organic beef.",
+              "button_label": ""
+            }
+          },
+          "5d0dbd42-b861-484d-9217-176a2ca69307": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1.png",
+              "right-logo": "shopify:\/\/shop_images\/5.png",
+              "alignment": "center center",
+              "slide_title": "Over 15 years in the making",
+              "subheading": "From the feed, to the cattle to the cut. Raise American has honed our process to create an excellent eating experience in organic beef.",
+              "button_label": ""
+            }
+          },
+          "503947a1-9fa6-4a11-9d02-acd350cf6b6d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3.png",
+              "right-logo": "shopify:\/\/shop_images\/7.png",
+              "alignment": "center center",
+              "slide_title": "Organic beef that sets a higher standard",
+              "subheading": "We’re passionate about cultivating our shared community. And that starts with the food we put on our tables. Which is why we raise 100% grass-fed cattle on farms right here in the U.S. That’s how we’re raising the bar in the American organic beef industry.",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "0a40b23b-9e19-40d2-83dc-ec2b2ce259c5",
+          "1603412395e5db6ebb-0",
+          "5d0dbd42-b861-484d-9217-176a2ca69307",
+          "503947a1-9fa6-4a11-9d02-acd350cf6b6d"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "medium",
+          "text_alignment": "left center",
+          "show_overlay": false,
+          "autorotate": true,
+          "autorotate_speed": 7
+        }
+      },
+      "1603412941dc017aa0": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Felx_2.jpg",
+          "layout": "left",
+          "title": "The rise of the flexitarian",
+          "text": "<p>In response to the latest trends, we’re creating innovative, blended products that combine our high-quality beef with wholesome, plant-based ingredients.<\/p>",
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections\/flexitarian"
+        }
+      },
+      "1603412958e054fec7": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/meatballs_2.jpg",
+          "layout": "right",
+          "title": "Convenient meals that don’t sacrifice nourishment or taste",
+          "text": "<p>Don’t have time to make something from scratch? With Raise American’s heat and eat selections, you can have beneficial, delicious, fully cooked meals in just a few minutes.<\/p>",
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections\/frozen-pre-cooked"
+        }
+      },
+      "160341304746a89f53": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Steak3.jpg",
+          "layout": "left",
+          "title": "Superior, grass-fed, organic steaks",
+          "text": "<p>From ribeyes to tenderloins, we provide steakhouse quality cuts of beef that you can enjoy from the comfort of home.<\/p>",
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections\/steaks"
+        }
+      },
+      "160341312711299eed": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/GettyImages-1003994244_2.jpg",
+          "layout": "right",
+          "title": "Premium, grass-fed, organic ground beef",
+          "text": "<p>Cultivated on American farms by family farmers, we can ensure our top-rated ground beef is second to none in the industry.<\/p>",
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections\/ground-beef"
+        }
+      },
+      "160341323114cb9f02": {
+        "type": "feature-columns",
+        "blocks": {
+          "160341323114cb9f02-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/grass-fed-pot-roast_2048x_4606b6be-69e6-4e41-9aa4-8f1f97171d65.jpg",
+              "title": "Organic Grass Fed Beef Pot Roast",
+              "text": "<p>INGREDIENTS: Organic Grass Fed Beef Chuck Roast 1 ½ Tbsp Canola Oil ½ tsp Cinnamon 1 tsp Coarse Ground Pepper 1 tsp Kosher Salt 1 Packet...<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/blogs\/recipes\/organic-grass-fed-beef-pot-roast"
+            }
+          },
+          "160341323114cb9f02-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/GettyImages-585480932_1.jpg",
+              "title": "Herb-crusted strip steak",
+              "text": "<p>Adding dried herbs to your marinade produces an amazing crust and makes for a stress-free preparation.<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/blogs\/recipes\/herb-rubbed-organic-grass-fed-beef-ny-strip-steaks-1"
+            }
+          },
+          "160341323114cb9f02-2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/GettyImages-1214081790_1.jpg",
+              "title": "Grilled ribeye steak with mushrooms",
+              "text": "<p>Solidify your reputation as master of the grill with this surefire recipe for impeccably grilled ribeye steak topped with a creamy mushroom sauce.<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/blogs\/recipes\/simply-grilled-organic-grass-fed-beef-dry-rub-steak"
+            }
+          }
+        },
+        "block_order": [
+          "160341323114cb9f02-0",
+          "160341323114cb9f02-1",
+          "160341323114cb9f02-2"
+        ],
+        "settings": {
+          "title": "Set a higher standard in your own kitchen with these Raise-approved recipes",
+          "align_text": "left"
+        }
+      },
+      "1603413383446bf8b5": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "b75c7792-a3aa-4728-aa2a-02c480b14fd2": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><a href=\"\/blogs\/recipes\" title=\"Recipes\">VIEW ALL RECIPES<\/a><\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "0ed6c59e-80a6-43da-b404-f50eee2ac677": {
+            "type": "text",
+            "settings": {
+              "title": "Find Raise American products at your favorite retailers",
+              "text": "<p>Our high quality, best-in-class beef products are available at your local grocers<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "b75c7792-a3aa-4728-aa2a-02c480b14fd2",
+          "0ed6c59e-80a6-43da-b404-f50eee2ac677"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "160345750611727372": {
+        "type": "logo-bar",
+        "blocks": {
+          "ce7d1d88-3040-4d01-9468-0331ad176458": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/OrganicSeal.png",
+              "logo-title": "USDA Certified Organic"
+            }
+          },
+          "160345750611727372-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools.png",
+              "logo-title": "100% grass-fed"
+            }
+          },
+          "160345750611727372-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools_1.png",
+              "logo-title": "No added hormones or antibiotics"
+            }
+          },
+          "160345750611727372-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools_2.png",
+              "logo-title": "Non-GMO"
+            }
+          },
+          "98651573-93a0-4aaf-9e66-a8d7e4849124": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools_3.png",
+              "logo-title": "100% American beef"
+            }
+          }
+        },
+        "block_order": [
+          "ce7d1d88-3040-4d01-9468-0331ad176458",
+          "160345750611727372-1",
+          "160345750611727372-2",
+          "160345750611727372-3",
+          "98651573-93a0-4aaf-9e66-a8d7e4849124"
+        ],
+        "settings": {
+          "bgimage": "shopify:\/\/shop_images\/grass-bg.png"
+        }
+      },
+      "1603465923ea10b2a9": {
+        "type": "logo-bar",
+        "disabled": true,
+        "blocks": {
+          "1603465923ea10b2a9-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_2c2548a3-204d-4398-9eee-7a75db996b0f.png",
+              "logo-title": ""
+            }
+          },
+          "1603465923ea10b2a9-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_20074b8d-7202-4ed4-9437-f4f36dd2e13a.png",
+              "logo-title": ""
+            }
+          },
+          "1603465923ea10b2a9-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_2c2548a3-204d-4398-9eee-7a75db996b0f.png",
+              "logo-title": ""
+            }
+          },
+          "1603465923ea10b2a9-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_20074b8d-7202-4ed4-9437-f4f36dd2e13a.png",
+              "logo-title": ""
+            }
+          }
+        },
+        "block_order": [
+          "1603465923ea10b2a9-0",
+          "1603465923ea10b2a9-1",
+          "1603465923ea10b2a9-3",
+          "1603465923ea10b2a9-2"
+        ],
+        "settings": {
+        }
+      },
+      "16034659234a6ce40f": {
+        "type": "custom-content",
+        "disabled": true,
+        "blocks": {
+          "e8ba7cf2-0dfa-4edb-819f-119e3365770c": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><a href=\"\/pages\/where-to-buy\" title=\"WHERE TO BUY\">STORE LOCATOR<\/a><\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "e8ba7cf2-0dfa-4edb-819f-119e3365770c"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "shop-deatured-content": {
+        "type": "shop-deatured-content",
+        "blocks": {
+          "fe6dffc2-8e46-42ce-a585-4b7e2f3704b9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Felx_2.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "0ef18b09-0287-4399-bd61-85f803bd5070": {
+            "type": "text",
+            "settings": {
+              "title": "The rise of the flexitarian",
+              "text": "<p>In response to the latest trends, we’re creating innovative, blended products that combine our high-quality beef with wholesome, plant-based ingredients.<\/p><p><a href=\"\/collections\/blended-burger\" target=\"_blank\" title=\"Blended Burger\">VIEW ALL<\/a><\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "e85bca39-b47d-402b-9111-fc6a291cd229": {
+            "type": "text",
+            "settings": {
+              "title": "Convenient meals that don’t sacrifice nourishment or taste",
+              "text": "<p>Don’t have time to make something from scratch? With Raise American’s heat and heat selections, you can have beneficial, delicious, fully cooked meals in just a few minutes.<\/p><p><a href=\"#\" target=\"_blank\" title=\"#\">View all<\/a><\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "fdf5a132-8ec2-4738-a775-cb6000b44d3f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/meatballs_2.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "d04b5124-c54e-4449-aaae-9cdce27c4980": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Steak3_720x-reverced.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "985d79fb-1d55-4812-baff-9aaa50a2ceda": {
+            "type": "text",
+            "settings": {
+              "title": "Superior, grass-fed, organic steaks",
+              "text": "<p>From ribeyes to tenderloins, we provide steakhouse quality cuts of beef that you can enjoy from the comfort of home.<\/p><p><a href=\"#\" title=\"#\" target=\"_blank\">Coming Soon<\/a><\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "ca8d4ed6-b096-4a9b-95e9-2c26b64f8712": {
+            "type": "text",
+            "settings": {
+              "title": "Premium, grass-fed, organic ground beef",
+              "text": "<p>Cultivated on American farms by family farmers, we can ensure our top-rated ground beef is second to none in the industry<\/p><p><a href=\"#\" title=\"#\" target=\"_blank\">Coming Soon<\/a><\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "101c7e91-9cc5-4725-bf80-1de5b1356520": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/GettyImages-1003994244_2.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "fe6dffc2-8e46-42ce-a585-4b7e2f3704b9",
+          "0ef18b09-0287-4399-bd61-85f803bd5070",
+          "e85bca39-b47d-402b-9111-fc6a291cd229",
+          "fdf5a132-8ec2-4738-a775-cb6000b44d3f",
+          "d04b5124-c54e-4449-aaae-9cdce27c4980",
+          "985d79fb-1d55-4812-baff-9aaa50a2ceda",
+          "ca8d4ed6-b096-4a9b-95e9-2c26b64f8712",
+          "101c7e91-9cc5-4725-bf80-1de5b1356520"
+        ],
+        "settings": {
+          "title": "Our exceptional beef selections"
+        }
+      },
+      "feature-columns-shop": {
+        "type": "feature-columns-shop",
+        "blocks": {
+          "ff2f81d9-5baf-4b43-8b25-f03665bb933d": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/GettyImages-160231786_1.jpg",
+              "title": "Spaghetti and meatballs",
+              "text": "<p>A family favorite that’s an easy andwelcome dish on any weeknight.<\/p>",
+              "button_label": ""
+            }
+          },
+          "f88cbbb0-479e-4455-852e-64e1f30ced7b": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/GettyImages-585480932_1.jpg",
+              "title": "Herb-crusted strip steak",
+              "text": "<p>Adding dried herbs to your marinade produces an amazing crust and makes for a stress-free preparation.<\/p>",
+              "button_label": ""
+            }
+          },
+          "47b933fd-7022-486b-8194-16f03a71697e": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/GettyImages-1214081790_1.jpg",
+              "title": "Grilled ribeye steak with mushrooms",
+              "text": "<p>Solidify your reputation as master of the grill with this surefire recipe for impeccably grilled ribeye steak topped with a creamy mushroom sauce.<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "ff2f81d9-5baf-4b43-8b25-f03665bb933d",
+          "f88cbbb0-479e-4455-852e-64e1f30ced7b",
+          "47b933fd-7022-486b-8194-16f03a71697e"
+        ],
+        "settings": {
+          "title": "Set a higher standard in your own kitchen with these Raise-approved recipes",
+          "align_text": "center"
+        }
+      },
+      "featured-content-shop-bottom": {
+        "type": "featured-content-shop-bottom",
+        "blocks": {
+          "ce281694-2006-4dec-8697-ca967730d06e": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><a href=\"\/blogs\/recipes\" title=\"Recipes\">VIEW ALL RECIPES<\/a><\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "93d2a9b0-d058-4ecb-a3e4-810aafa51eac": {
+            "type": "text",
+            "settings": {
+              "title": "Find Raise American products at your favorite retailers",
+              "text": "<p>Our high quality, best-in-class beef products are available at your local grocers<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          },
+          "be11f4d5-b27f-4890-b514-81b62e28a405": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_20074b8d-7202-4ed4-9437-f4f36dd2e13a.png",
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "98f4aa7b-01f8-4772-92d6-14827b8ace11": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_2c2548a3-204d-4398-9eee-7a75db996b0f.png",
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "801ac4ca-cd1a-4346-8a41-8be15b33d5e5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_20074b8d-7202-4ed4-9437-f4f36dd2e13a.png",
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "cf8e2ac9-f99f-40f2-9f06-c4d30be42944": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_2c2548a3-204d-4398-9eee-7a75db996b0f.png",
+              "width": "25%",
+              "alignment": "center"
+            }
+          },
+          "400de7cc-78bd-4063-901d-227bf8d53d11": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><a href=\"\/pages\/where-to-buy\" title=\"WHERE TO BUY\" target=\"_blank\">STORE LOCATOR<\/a><\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "ce281694-2006-4dec-8697-ca967730d06e",
+          "93d2a9b0-d058-4ecb-a3e4-810aafa51eac",
+          "be11f4d5-b27f-4890-b514-81b62e28a405",
+          "98f4aa7b-01f8-4772-92d6-14827b8ace11",
+          "801ac4ca-cd1a-4346-8a41-8be15b33d5e5",
+          "cf8e2ac9-f99f-40f2-9f06-c4d30be42944",
+          "400de7cc-78bd-4063-901d-227bf8d53d11"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "content-retailers": {
+        "type": "content-retailers",
+        "blocks": {
+          "2ad32407-020b-4124-a920-e699490cd3ba": {
+            "type": "html",
+            "settings": {
+              "code": "<h1>Discover the Raise American difference<\/h1>",
+              "width": "100%"
+            }
+          },
+          "0ab2c408-14ee-4fc8-9037-8d07d293c6f5": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Lowres-1.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "4ab5c39b-6703-42ce-b45b-6e42729de3b9": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>In addition to our extensive Raise Branded product line, Raise American <\/strong>currently provides private label organic beef programs for some of America’s largest grocery retailers. Our specialty is stewarding your brand to a high quality, 100% American, Organic Grass Fed Beef program at competitive pricing.  The company owned facility in Gordon, NE, which is unique in the industry, allows us to directly manage strict processes and controls to ensure quality products.<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "9bddc0dc-d465-4b1d-aeee-35960a92770b": {
+            "type": "text",
+            "settings": {
+              "title": "Anything out of the cow",
+              "text": "<p>Raise American can provide major grocery retailers any cut of 100% American Organic beef. With our boutique facility and our flexible and customizable abilities, we utilize the whole cow from nose to tail. Let us customize your fresh organic beef program. We ship nation wide!<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "f8cd668c-805a-4ce0-b634-83280956b9ff": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/beef-selections.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "2ad32407-020b-4124-a920-e699490cd3ba",
+          "0ab2c408-14ee-4fc8-9037-8d07d293c6f5",
+          "4ab5c39b-6703-42ce-b45b-6e42729de3b9",
+          "9bddc0dc-d465-4b1d-aeee-35960a92770b",
+          "f8cd668c-805a-4ce0-b634-83280956b9ff"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "feature-columns-retail": {
+        "type": "feature-columns-retail",
+        "blocks": {
+          "3c8339ad-236e-412c-985e-85437978a2b2": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/BB-Lentils_copy-v6.jpg",
+              "title": "Organic Beef Blended Burger with Lentils, Mushrooms and Kale",
+              "text": "",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/blended-burger-lentils"
+            }
+          },
+          "2b5f42fe-b054-4da6-9f55-c0086de6feb0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs2.png",
+              "title": "Organic Gluten-free Meatballs",
+              "text": "",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/meatballs-fresh-fully-cooked"
+            }
+          },
+          "5636735c-fa93-4299-b4e0-d483412eee6d": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Comming-Soon_07df8ad6-c5d3-4480-816c-acc39cb8c776.png",
+              "title": "Organic Ribeye Steak",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "39377772-9065-42c1-9d49-a69e49495c70": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/BB-Sw_Potato-v2.jpg",
+              "title": "Organic Beef Blended Burger with Quinoa, Sweet Potatoes and Kale",
+              "text": "",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/blended-burger-sweet-potato"
+            }
+          },
+          "a1ea098a-5e54-4bc6-9f2c-1a163e52d0cc": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Comming-Soon.png",
+              "title": "Organic Strip Steak",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "a656967a-8602-40a3-9546-e0980c23b62d": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs_2e1c2d27-12ed-4a89-947b-d7765f9bff9a.png",
+              "title": "Gluten-free Meatballs in Marinara",
+              "text": "",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/meatballs-with-sauce-fresh-fully-cooked"
+            }
+          }
+        },
+        "block_order": [
+          "3c8339ad-236e-412c-985e-85437978a2b2",
+          "2b5f42fe-b054-4da6-9f55-c0086de6feb0",
+          "5636735c-fa93-4299-b4e0-d483412eee6d",
+          "39377772-9065-42c1-9d49-a69e49495c70",
+          "a1ea098a-5e54-4bc6-9f2c-1a163e52d0cc",
+          "a656967a-8602-40a3-9546-e0980c23b62d"
+        ],
+        "settings": {
+          "title": "Our superior beef products",
+          "align_text": "center"
+        }
+      },
+      "content-about-top": {
+        "type": "content-about-top",
+        "blocks": {
+          "77214499-bebf-47fa-9c40-47d5d6dfc735": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Lowres-2.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          },
+          "f841f962-d66a-4b1d-b296-a91374096ca2": {
+            "type": "text",
+            "settings": {
+              "title": "The Rise of Raise",
+              "text": "<p>Our cave dwelling ancestors had it right. They loved red meat so much, they’d paint pictures of it on their cavey walls to show their devotion. They were the original beef eaters. The O.G. Beef Eaters. And they’re us. <\/p><p>If you’re on this site then you know, we didn’t evolve because of broccoli rabe and garlic. Because of spinach and kale smoothies. Because of eggplant panini. Beef made us. Beef raised us. Beef is our birthright.<\/p><p>But we’ve evolved even more, and so have our tastes and so have your needs. You want only the good stuff. You want organic. You want grass-fed. You want pasture raised. You want homegrown and healthy. You want the most phenomenal beef sourced from the most phenomenal cattle — cattle raised by America’s most phamtastic farmers, on America’s most phamtastic lands and that is Raise American!<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "65c3b610-63f6-47e3-aef8-1629ac649569": {
+            "type": "text",
+            "settings": {
+              "title": "How we’re raising the bar",
+              "text": "<p>We learned a lesson from Mom and Pop, and it’s this: If you want something done right, you do it yourself. So that’s exactly what we went out and did. We created Raise American, where we’ve raised the bar so high on beef, we can’t even see the bar anymore. It’s floating somewhere up in the stratosphere. But back here on the ground, you can be sure Raise American is supplying you with the real deal: 100% organic. 100% grass-fed. 100% American. 100% friendly to our planet. We’ve have literally and figuratively raised the steaks!<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "599a636c-e3cc-4f7b-8387-8ee450bab72b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Farmer-and-Son-1.jpg",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "77214499-bebf-47fa-9c40-47d5d6dfc735",
+          "f841f962-d66a-4b1d-b296-a91374096ca2",
+          "65c3b610-63f6-47e3-aef8-1629ac649569",
+          "599a636c-e3cc-4f7b-8387-8ee450bab72b"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "logo-bar-about": {
+        "type": "logo-bar-about",
+        "blocks": {
+          "30476af0-1bf2-4ed2-9e28-9020e39a737b": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools.png",
+              "logo-title": "100% grass-fed"
+            }
+          },
+          "40538cb6-90e3-4a2d-97a1-d892d816c8f6": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools_1.png",
+              "logo-title": "No added hormones or antibiotics"
+            }
+          },
+          "fb624164-efed-4637-9a24-8e785066b658": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools_2.png",
+              "logo-title": "Non-GMO"
+            }
+          },
+          "9eee9459-e066-499f-aa1a-aef3d71502e4": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/output-onlinepngtools_3.png",
+              "logo-title": "100% American beef"
+            }
+          }
+        },
+        "block_order": [
+          "30476af0-1bf2-4ed2-9e28-9020e39a737b",
+          "40538cb6-90e3-4a2d-97a1-d892d816c8f6",
+          "fb624164-efed-4637-9a24-8e785066b658",
+          "9eee9459-e066-499f-aa1a-aef3d71502e4"
+        ],
+        "settings": {
+          "bgimage": "shopify:\/\/shop_images\/grass-bg_1865x525_2x_c25675cc-d207-4219-857d-a675ecf6ef73.png"
+        }
+      },
+      "content-about-bottom": {
+        "type": "content-about-bottom",
+        "blocks": {
+          "6009e945-21cd-4aee-bba6-d6b15ac79764": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>We have years — and by years, we mean ass-kicking decades — of down to the bones experience in the beef business. We’re not just some guys brokering beef off a laptop from a windowless office in an industrial park. Those guys are out there, but we’re not them. We’re the guys who oversee the operation like a Type-A soccer mom, or a hovering helicopter parent. That’s us, but with our cattle.<\/p>",
+              "width": "66%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "d0d3f61b-cb01-4699-aa96-ff1cd755895b": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/fed.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "b8bd4272-5ab0-4402-abf5-5bfce9fc08a2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cattle.png",
+              "width": "33%",
+              "alignment": "center"
+            }
+          },
+          "e1c27805-7ed3-48c4-8b2d-2ae76870e95a": {
+            "type": "text",
+            "settings": {
+              "title": "A Raise American Cow",
+              "text": "<p>America is a big and beautiful country, with an even bigger love for beef. So we have assembled the largest community of certified organic cattle ranchers in the United States, most of whom contract exclusively with us. Their ranches are all across the country — Minnesota, Colorado, Oregon, Nebraska, South Dakota, and Texas, to name a few. We probably have a ranch near you.<\/p><p>We have true partnerships with our ranchers, and we are deeply involved in the standards used in raising and sourcing cattle. This gives us intense oversight over ALL of our grass-fed cattle. We manage what they eat, we manage their health, we manage their environment, and we manage the way they are transported. We have direct knowledge of every single cow, from calf to process. We know exactly where the beef has been, right down to the pasture the cow was born on. Hell, we could probably give you a birth certificate and an astrological chart to go with it! But seriously, we can track ground beef directly back to the herd it came from. We can track the steak back to the cow. This can’t be said of all beef brands, but it can be said of ours. We work this way because it truly matters where your beef comes from.<\/p><p>Raise American is encouraging all organic beef ranchers toward regenerative farming. What is that? Think of Regenerative as Sustainable Farming 2.0. In 2021, organic ranchers cannot just try to maintain the status quo, which is pretty much what sustainability is. Instead, regenerative REVIVES the soil, REPLENISHES the land, and REMOVES greenhouse gases.<\/p>",
+              "width": "66%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          }
+        },
+        "block_order": [
+          "6009e945-21cd-4aee-bba6-d6b15ac79764",
+          "d0d3f61b-cb01-4699-aa96-ff1cd755895b",
+          "b8bd4272-5ab0-4402-abf5-5bfce9fc08a2",
+          "e1c27805-7ed3-48c4-8b2d-2ae76870e95a"
+        ],
+        "settings": {
+          "title": "The Raise Way"
+        }
+      },
+      "feature-columns-about": {
+        "type": "feature-columns-about",
+        "blocks": {
+          "5997dae7-4186-4ebc-b3c9-bdb327a8db6e": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs.png",
+              "title": "Name, title",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "a1eef92a-60f3-496a-ae46-1298606ab9af": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs.png",
+              "title": "Name, title",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "433cc200-778d-4417-8287-df1b0f4a9aa1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs.png",
+              "title": "Name, title",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "c65e6b60-3cd2-41d2-8637-b9f6fd94f8b3": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs.png",
+              "title": "Name, title",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "eb50212b-693e-494b-b435-ee0da5842e10": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs.png",
+              "title": "Name, title",
+              "text": "",
+              "button_label": ""
+            }
+          },
+          "a7d74cd2-1118-4b0c-a1c7-628789917e05": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/3d-meatballs.png",
+              "title": "Name, title",
+              "text": "",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "5997dae7-4186-4ebc-b3c9-bdb327a8db6e",
+          "a1eef92a-60f3-496a-ae46-1298606ab9af",
+          "433cc200-778d-4417-8287-df1b0f4a9aa1",
+          "c65e6b60-3cd2-41d2-8637-b9f6fd94f8b3",
+          "eb50212b-693e-494b-b435-ee0da5842e10",
+          "a7d74cd2-1118-4b0c-a1c7-628789917e05"
+        ],
+        "settings": {
+          "title": "Meet the Raise American team",
+          "align_text": "center"
+        }
+      },
+      "password-header": {
+        "type": "password-header",
+        "settings": {
+          "logo_max_width": 100,
+          "header": "Coming Soon"
+        }
+      },
+      "password-content": {
+        "type": "password-content",
+        "settings": {
+          "newsletter_enable": true,
+          "newsletter_form_heading": "Be the first to know when we launch.",
+          "newsletter_form_subheading": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "newsletter_placeholder": "Email address",
+          "newsletter_button_text": "Notify me"
+        }
+      },
+      "password-footer": {
+        "type": "password-footer",
+        "settings": {
+          "show_share_buttons": true,
+          "social_message": "Spread the word"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_quantity_selector": true,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": false,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "SHOP POPULAR PRODUCTS",
+          "show_vendor": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 3
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 3,
+          "rows": 4,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "blog_show_author": false,
+          "blog_show_date": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "retailers-rich-text": {
+        "type": "retailers-rich-text",
+        "settings": {
+          "full_width": false,
+          "section_title": "Want to see Raise American<br>on shelves?",
+          "text": "<p><b><u>CONTACT<\/u><\/b><\/p><p><a href=\"mailto:Info@RaiseAmerican.com\">Info@RaiseAmerican.com<\/a><\/p>",
+          "text_size": "large"
+        }
+      },
+      "about-featured-blog": {
+        "type": "about-featured-blog",
+        "settings": {
+          "title": "",
+          "blog": "",
+          "post_limit": 3,
+          "blog_show_author": false,
+          "blog_show_date": false,
+          "show_view_all": false
+        }
+      },
+      "logo-bar-receip": {
+        "type": "logo-bar-receip",
+        "blocks": {
+          "cb2a9426-4929-4bf7-bd6a-eeee6021e2f0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_20074b8d-7202-4ed4-9437-f4f36dd2e13a.png",
+              "logo-title": ""
+            }
+          },
+          "a18c3e08-0ae8-423d-81f4-4cdf769ef95e": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_2c2548a3-204d-4398-9eee-7a75db996b0f.png",
+              "logo-title": ""
+            }
+          },
+          "2047c99f-1ad7-4b0c-97cb-3fafbb711756": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_20074b8d-7202-4ed4-9437-f4f36dd2e13a.png",
+              "logo-title": ""
+            }
+          },
+          "31572f79-1b79-4603-9437-773821857ada": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Organic_Seal_-_small_2c2548a3-204d-4398-9eee-7a75db996b0f.png",
+              "logo-title": ""
+            }
+          }
+        },
+        "block_order": [
+          "cb2a9426-4929-4bf7-bd6a-eeee6021e2f0",
+          "a18c3e08-0ae8-423d-81f4-4cdf769ef95e",
+          "2047c99f-1ad7-4b0c-97cb-3fafbb711756",
+          "31572f79-1b79-4603-9437-773821857ada"
+        ],
+        "settings": {
+        }
+      },
+      "custom-content-recip1": {
+        "type": "custom-content-recip1",
+        "blocks": {
+          "504080d1-6ebc-4253-87d7-314ad792be7a": {
+            "type": "text",
+            "settings": {
+              "title": "Find Raise American products at your favorite retailers",
+              "text": "<p>Our high quality, best-in-class beef products are available at your local grocers<\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "504080d1-6ebc-4253-87d7-314ad792be7a"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "custom-content-recip2": {
+        "type": "custom-content-recip2",
+        "blocks": {
+          "a64fd038-465c-43b4-96a4-6736b54fa3cb": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><a href=\"\/pages\/where-to-buy\" title=\"WHERE TO BUY\">STORE LOCATOR<\/a><\/p>",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "a64fd038-465c-43b4-96a4-6736b54fa3cb"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "meet-the-team-description": {
+        "type": "meet-the-team-description",
+        "blocks": {
+          "1858e308-1723-4bf4-b0c4-139e4c01da68": {
+            "type": "text",
+            "settings": {
+              "title": "Meet the Team",
+              "text": "",
+              "width": "100%",
+              "alignment": "center",
+              "align_text": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1858e308-1723-4bf4-b0c4-139e4c01da68"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "meet-the-team-headshots": {
+        "type": "meet-the-team-headshots",
+        "blocks": {
+          "a7bba945-1157-4f39-8916-2bb6beb87a2f": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Janna_3f22c5eb-1814-4648-9904-84f4549c9f10.jpg",
+              "title": "Jana Kiever",
+              "text": "<p><strong>Director Sales Operation<\/strong><\/p><p>Jana is born and “Raised” in Nebraska, the Beef State. “I have been mothering this company for eight years and loved every minute of it. I do know a bit about everything regarding organic beef. If you don’t know where to start, call me! I believe there’s nothing better than our Organic Beef Filet Mignon.” <\/p>",
+              "button_label": ""
+            }
+          },
+          "be22e549-71a4-4c7f-9daf-5c12bae9f47f": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Heather_6598fb51-6f12-4975-8919-e7c413d25f9d.jpg",
+              "title": "Heather Gilmore",
+              "text": "<p><strong>VP, Retail Sales<\/strong><\/p><p>Heather has been in the sustainable beef industry for over 10 years.  While she did not grow up on a farm, she cannot imagine doing anything else. “My two young kids are the best taste testers in the business. If they give something a thumbs up, I know it will be a hit! If I won’t feed it to my family, I won’t feed it to yours! Good for you, the animal, and the planet…. That’s the goal.”<\/p>",
+              "button_label": ""
+            }
+          },
+          "8ee99181-71fc-4fff-b376-2e4d6645c266": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Jarod_12333e66-53f5-4108-83e2-8ca7bad31818.jpg",
+              "title": "Jared Peterreins",
+              "text": "<p><strong>VP, Wholesale<\/strong><\/p><p>Jared holds a major in the organic beef industry (earned over 15 years) and a minor in outdoor sports.  “There’s nothing I like better than going to work each day knowing that what we do is making a difference in the cycle of sustainability and healthy eating. If we are going to play in nature, lets protect it.”<\/p>",
+              "button_label": ""
+            }
+          },
+          "fb6a264b-0457-404a-86c8-99abc421be69": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Nick_c517ac43-e85f-466e-8733-9edf6f432164.jpg",
+              "title": "Nick Tarpoff",
+              "text": "<p><strong>VP, Livestock Management<\/strong><\/p><p>Nick is a 4th generation beef man. “From being raised starting at 3am in the family packing plant and late nights working at the steakhouse, to now 15 years in the naturally raised meat industry. I have prepared my entire life to pick the perfect steer resulting in the highest quality beef for you.”<\/p>",
+              "button_label": ""
+            }
+          },
+          "38da1491-ce6d-430b-95da-505ee32b8e32": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Nicole_e0019255-7edd-451c-9cab-c529f6f86f5b.jpg",
+              "title": "Nicole Light",
+              "text": "<p><strong>VP Brand Manager, Raise American<\/strong><\/p><p>Nicole has been a brand developer and technical packaging junkie for 15 years, she’s determined to wage a war on mediocrity on the shelf. “I really enjoy a great salad! I was never really into beef. Now, after being a part of Raise American Organic beef company, I just put beef on my salad. I didn’t really eat beef until I joined Raise, I think it’s a requirement.”<\/p>",
+              "button_label": ""
+            }
+          },
+          "7bf15985-b91c-43af-849a-b0916868a77a": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Doug_0e968276-5a99-429f-af19-f0c04b359b6d.jpg",
+              "title": "Doug Cooper",
+              "text": "<p><strong>President, Livestock Division <\/strong><\/p><p>Doug is a beef industry legend and animal scientist by training with over 25 years of integrated beef production experience in both the USA and across the globe. “My passion is building specialized beef programs and doing them right! For you, the farmer, and the environment.”<\/p>",
+              "button_label": ""
+            }
+          },
+          "361eea22-31a8-4f1f-8bda-b9f19c083147": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/James_6eda7883-16b8-46a6-82f4-e02af6f4ddc0.jpg",
+              "title": "James Loveridge",
+              "text": "<p><strong>CFO<\/strong><\/p><p>James collects money, pays the bills, and makes sure we never run out of the green stuff. “I do not write silly bios.” His career in Food Processing began in the ConAgra Red Meats Group.  Since then, he has enjoyed Mrs. Fields Cookies, gourmet chocolate, turkey and, best of all, Organic Grass Feed Beef. &quot;As a dark chocolate lover, I crave an 8 oz tenderloin before dessert.&quot;<\/p>",
+              "button_label": ""
+            }
+          },
+          "7d7d3c50-97e7-4836-ba05-bc3b0eee94ec": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Marc_61ea7c62-05ce-417b-8b1d-ff00e0d06715.jpg",
+              "title": "Marc Broccoli (Yes, that’s my last name)",
+              "text": "<p><strong>COO, Raise American, CEO ORB<\/strong><\/p><p>Marc is a food scientist with over 20 years of meat management experience and a D1 Athlete on the meat judging team at the University of Georgia. “My favorite dish is a bourbon and a ribeye with a small portion of sweet potatoes and, of course, broccoli.”<\/p>",
+              "button_label": ""
+            }
+          },
+          "9630b0ac-65db-4360-b095-4c59312dcfbb": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Scott_8fff9180-cc25-4c58-b539-1bf9132645be.jpg",
+              "title": "Scott Lively",
+              "text": "<p><strong>President &amp; Board Member, Raise American <\/strong><\/p><p>Scott has been a pioneer in the American Organic Beef industry for over 15 years. Prior to this life, he had a technology background in supply chain management. “In the last decade I have developed a passion for great food raised naturally. The only thing I enjoy more than red wine is a perfect striploin covered in onions.”<\/p>",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "a7bba945-1157-4f39-8916-2bb6beb87a2f",
+          "be22e549-71a4-4c7f-9daf-5c12bae9f47f",
+          "8ee99181-71fc-4fff-b376-2e4d6645c266",
+          "fb6a264b-0457-404a-86c8-99abc421be69",
+          "38da1491-ce6d-430b-95da-505ee32b8e32",
+          "7bf15985-b91c-43af-849a-b0916868a77a",
+          "361eea22-31a8-4f1f-8bda-b9f19c083147",
+          "7d7d3c50-97e7-4836-ba05-bc3b0eee94ec",
+          "9630b0ac-65db-4360-b095-4c59312dcfbb"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "center"
+        }
+      },
+      "blog-recipe-template": {
+        "type": "blog-recipe-template",
+        "settings": {
+          "layout": "list",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "feature-columns-retail-image": {
+        "type": "feature-columns-retail-image",
+        "blocks": {
+          "89b4126e-e8a0-4792-8153-a22eb3c5f12f": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Raise_Retailers_Steaks_and_Prepared_Meals_FamilyGraphic.jpg",
+              "title": "",
+              "text": "",
+              "button_label": ""
+            }
+          }
+        },
+        "block_order": [
+          "89b4126e-e8a0-4792-8153-a22eb3c5f12f"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "center"
+        }
+      },
+      "hero": {
+        "type": "hero",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/MicrosoftTeams-image.jpg",
+          "alignment": "center",
+          "hero_layout": "full_width",
+          "hero_size": "large",
+          "text_size": "medium",
+          "title": "",
+          "text": "",
+          "button_label": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1603412395e5db6ebb",
+      "feature-row",
+      "160345750611727372",
+      "1603412941dc017aa0",
+      "1603412958e054fec7",
+      "160341304746a89f53",
+      "160341312711299eed",
+      "160341323114cb9f02",
+      "1603413383446bf8b5",
+      "1603465923ea10b2a9",
+      "16034659234a6ce40f"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+          }
+        },
+        "hero-1": {
+          "type": "hero",
+          "settings": {
+            "hero_size": "large",
+            "text_size": "large"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "feature-columns": {
+          "type": "feature-columns",
+          "blocks": {
+            "feature-columns-0": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-1": {
+              "type": "text_block",
+              "settings": {
+              }
+            },
+            "feature-columns-2": {
+              "type": "text_block",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "feature-columns-0",
+            "feature-columns-1",
+            "feature-columns-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "grid": 4
+          }
+        },
+        "hero-2": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "quotes": {
+          "type": "quotes",
+          "blocks": {
+            "quotes-0": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-1": {
+              "type": "quote",
+              "settings": {
+              }
+            },
+            "quotes-2": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "quotes-0",
+            "quotes-1",
+            "quotes-2"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "image-bar": {
+          "type": "image-bar",
+          "blocks": {
+            "image-bar-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "image-bar-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "image-bar-0",
+            "image-bar-1",
+            "image-bar-2"
+          ],
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "footer-1": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1"
+          ],
+          "settings": {
+            "show_payment_icons": true
+          }
+        }
+      },
+      "content_for_index": [
+        "hero-1",
+        "feature-row",
+        "feature-columns",
+        "collection",
+        "hero-2",
+        "quotes",
+        "image-bar"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_vendor": false,
+            "show_share_buttons": true,
+            "media_size": "medium",
+            "enable_image_zoom": true,
+            "enable_video_looping": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {
+          }
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {
+          }
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "link_list",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+            "color_footer_bg": "#f8f8f8",
+            "color_footer_text": "#6d6d6d"
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}

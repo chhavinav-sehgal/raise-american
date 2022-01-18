@@ -1,0 +1,22 @@
+<style>
+  {%- if image.height <= height %}
+    {% assign maximum_height = image.height %}
+  {% else %}
+    {% assign maximum_height = height %}
+  {% endif -%}
+
+  {%- assign maximum_width = maximum_height | times: image.aspect_ratio -%}
+
+  #{{ img_id }} {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  #{{ wrapper_id }} {
+    max-width: {{ maximum_width }}px;
+  }
+</style>
