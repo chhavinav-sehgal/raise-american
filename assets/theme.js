@@ -1438,20 +1438,16 @@ this.Shopify.theme.PredictiveSearchComponent = (function(PredictiveSearch) {
         // Set classes
         this.classes = {
             visibleVariant: config.visibleVariant ?
-                config.visibleVariant :
-                'predictive-search-wrapper--visible',
+                config.visibleVariant : 'predictive-search-wrapper--visible',
             itemSelected: config.itemSelectedClass ?
-                config.itemSelectedClass :
-                'predictive-search-item--selected',
+                config.itemSelectedClass : 'predictive-search-item--selected',
             clearButtonVisible: config.clearButtonVisibleClass ?
-                config.clearButtonVisibleClass :
-                'predictive-search__clear-button--visible'
+                config.clearButtonVisibleClass : 'predictive-search__clear-button--visible'
         };
 
         this.selectors = {
             searchResult: config.searchResult ?
-                config.searchResult :
-                '[data-search-result]'
+                config.searchResult : '[data-search-result]'
         };
 
         // Assign callbacks
@@ -9613,6 +9609,26 @@ $(document).ready(function() {
     });
 
     $("li.grid__item .product-card").height(maxHeight);
+
+    $('.newsletter__submit').on("click", function(evt) {
+        const value = $.trim($('#ContactFooter-email').val());
+        if (value == "") {
+            evt.preventDefault();
+            $('.alert-error').text("Email can't be blank");
+        } else if (!IsEmail(value)) {
+            evt.preventDefault();
+            $('.alert-error').text('Not a valid email');
+        }
+    });
+
+    function IsEmail(email) {
+        var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if (!regex.test(email)) {
+            return false;
+        } else {
+            return true;
+        }
+    }
 
 });
 $(window).scroll(function() {

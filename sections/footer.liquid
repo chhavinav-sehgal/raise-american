@@ -196,6 +196,7 @@
                         <span class="site-footer__newsletter-error">{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}.</span>
                       </span>
                     {% endif %}
+                    <div class="alert-error"></div>
                   {% endform %}
                 </div>
 				{%- assign socials = "Facebook Twitter Pinterest Instagram Tumblr Snapchat YouTube Vimeo" | split: ' ' -%}
