@@ -9629,6 +9629,12 @@ $(document).ready(function() {
             return true;
         }
     }
+    $('.shopify-challenge__button').on("click", function(evt) {
+
+        if (grecaptcha.getResponse() == '') {
+            evt.preventDefault();
+        }
+    });
 
 });
 $(window).scroll(function() {
