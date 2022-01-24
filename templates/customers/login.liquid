@@ -10,7 +10,7 @@
 
         <h1 id="LoginHeading" class="text-center">{{ 'customer.login.title' | t }}</h1>
 
-        {% form 'customer_login', novalidate: 'novalidate' %}
+        {% form 'customer_login' %}
 
           {%- if form.errors -%}
             <div class="form-message form-message--error">
@@ -21,7 +21,7 @@
 
           <label for="CustomerEmail">{{ 'customer.login.email' | t }}</label>
           <input
-            type="email"
+            type="email" required="required"
             name="customer[email]"
             id="CustomerEmail"
             autocomplete="email"
@@ -36,7 +36,7 @@
           {% if form.password_needed %}
             <label for="CustomerPassword">{{ 'customer.login.password' | t }}</label>
             <input
-              type="password"
+              type="password" required="required"
               value=""
               name="customer[password]"
               id="CustomerPassword"
@@ -81,7 +81,7 @@
 
             <label for="RecoverEmail">{{ 'customer.recover_password.email' | t }}</label>
             <input
-              type="email"
+              type="email" required="required"
               value=""
               name="email"
               id="RecoverEmail"

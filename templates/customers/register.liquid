@@ -7,7 +7,7 @@
         <h1 class="text-center">{{ 'customer.register.title' | t }}</h1>
 
         {%- assign formId = 'RegisterForm' -%}
-        {% form 'create_customer', id: formId, novalidate: 'novalidate' %}
+        {% form 'create_customer', id: formId %}
           {% include 'form-status', form: form, form_id: formId %}
 
           <label for="{{ formId }}-FirstName">{{ 'customer.register.first_name' | t }}</label>
@@ -18,7 +18,7 @@
 
           <label for="{{ formId }}-email">{{ 'customer.register.email' | t }}</label>
           <input
-            type="email"
+            type="email" required="required"
             name="customer[email]"
             id="{{ formId }}-email"
             class="{% if form.errors contains 'email' %} input--error{% endif %}"
@@ -43,7 +43,7 @@
 
           <label for="{{ formId }}-password">{{ 'customer.register.password' | t }}</label>
           <input
-            type="password"
+            type="password" required="required"
             name="customer[password]"
             id="{{ formId }}-password"
             class="{% if form.errors contains 'password' %} input--error{% endif %}"
