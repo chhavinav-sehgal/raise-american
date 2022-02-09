@@ -213,7 +213,7 @@
                     </li>
                   {%- endif -%}
                 {%- endfor -%}
-
+          {% comment %} 
                 {%- if request.page_type == 'blog' or request.page_type == 'article' -%}
                   <li>
                     <a class="social-icons__link" href="{{ shop.url }}{{ blog.url }}.atom">
@@ -222,6 +222,7 @@
                     </a>
                   </li>
                 {%- endif -%}
+          {% endcomment %} 
               </ul>
               {%- when 'text' -%}
                 {%- if block.settings.text != blank or block.settings.text == blank -%}
